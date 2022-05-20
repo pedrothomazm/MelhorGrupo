@@ -6,3 +6,4 @@ Aqui está uma descrição longa e detalhada do trabalho realizado em aula pelos
 - Gabriel Mendes
 - Iago
 - Gerardo Mikael
+Não há grupo melhor que esse.
