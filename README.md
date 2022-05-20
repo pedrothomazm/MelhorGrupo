@@ -5,5 +5,5 @@ Aqui está uma descrição longa e detalhada do trabalho realizado em aula pelos
 - Josué
 - Gabriel Mendes
 - Iago
-- Gerardo Mikael
+- Gerardo Mikael  
 Não há grupo melhor que esse.
